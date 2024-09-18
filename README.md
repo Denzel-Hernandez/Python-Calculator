@@ -1,4 +1,4 @@
-# Advanced Python Calculator
+# Python Calculator
 
 A command-line **advanced calculator** built using **Python**. This calculator supports basic arithmetic, advanced mathematical functions, variable assignments, and history tracking. The calculator also provides help commands for ease of use.
 
